@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PlayingState.update(deltaTime:):PlayingState.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newlyAdded">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayingState.addBall(originateFrom:):PlayingState.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.didMove(to:):GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view?.window">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BeginningInState.didEnter(from:):BeginningInState.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.score.didset:GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gamePlayingMenu.children">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.touchesEnded(_:with:):GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedButton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.setUpScene():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pauseButton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Menu.enable():Menu.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.children">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Player.moveTo(destination:):Player.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
